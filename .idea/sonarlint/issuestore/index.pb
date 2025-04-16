@@ -1,9 +1,5 @@
 
-E
-src/models/Human.java,6\f\6ffc8c3b27e1b2f8aae66afd404b987960523a52
-N
-src/models/CompteBancaire.java,0\d\0de536f61922c5d8ee66be62be51842defbf68dc
-E
-src/models/Livre.java,6\b\6b6d37f62680be80ff75ac750b3c86cfa8552fb0
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+S
+#src/models/Ex1Ex2Encapsulation.java,2\b\2bdb1b1f2c6d5b3e5df35387b52334db9c8fcd7d
+F
+src/models/Tables.java,e\8\e825214e893dc16a9d73b10cd260da79c0a05eab
