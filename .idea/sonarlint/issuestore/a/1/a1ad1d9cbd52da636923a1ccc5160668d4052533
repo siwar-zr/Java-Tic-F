@@ -1,0 +1,22 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕÈš¿ıÿÿÿÿ
+v
+java:S1450"[Remove the "triedLetters" field and declare it as a local variable in the relevant methods.(©ˆÏÿÿÿÿÿ
+g
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ú¡­,
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù¼ã¾
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÑËöö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«Ëúÿÿÿÿ
+9
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ÎñèĞ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(©Û÷û
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(³Ïèøüÿÿÿÿ
+M	java:S1069"9Replace this use of System.out or System.err by a logger.(ï…Ä>
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ˆ““¸
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ŞŞ£³úÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(˜õŞúÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(ó›û´ıÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(Ô˜²É
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(–›İûúÿÿÿÿ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(óà¨

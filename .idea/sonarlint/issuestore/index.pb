@@ -25,3 +25,27 @@ M
 src/cinemaApp/CinemaHall.java,b\3\b3112df43f287d4302c107bcf53cc75c44cb2d90
 =
 src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+I
+src/Abstraction/Demo.java,6\4\64ed9e987f0d930b5fd17d0b7f3928af7f4f768a
+Z
+*src/Abstraction/GestionBanque/Account.java,a\8\a8b19182dc9297e1ff93c05d69561fb46a06a419
+a
+1src/Abstraction/GestionBanque/SavingsAccount.java,a\e\ae515980a3a6345167a4ba1221d973bdad92abf9
+a
+1src/Abstraction/GestionBanque/CurrentAccount.java,f\a\fa1678803b12a592b6a913bc8433ed37ee321c50
+W
+'src/Abstraction/GestionBanque/Bank.java,1\c\1c4a638bdbebd14e8e8ff4b3381c1dd57404d403
+W
+'src/Abstraction/GestionBanque/Main.java,f\8\f867fa4dada64d01259ac4b7899740b947cd735c
+H
+src/Exceptions/Demo.java,d\7\d7705deb4f0a567e3c1d8e4fa0632a4eae84dc7f
+H
+src/interfaces/Demo.java,f\d\fd39736b5999690f7119789b2d2a53bc54087113
+Q
+!src/Abstraction/Hangman/Word.java,c\1\c110c05a37119fafc3bedd3d70aa644524c8b957
+Q
+!src/Abstraction/Hangman/Main.java,c\4\c441cd2c0a9ff4769d4b74c167e8c76cb434b673
+U
+%src/Abstraction/Hangman/Category.java,0\0\00790d57da4d4e9411a33f26403ceb09fa49d4a4
+Q
+!src/Abstraction/Hangman/Game.java,a\1\a1ad1d9cbd52da636923a1ccc5160668d4052533
