@@ -49,3 +49,35 @@ U
 %src/Abstraction/Hangman/Category.java,0\0\00790d57da4d4e9411a33f26403ceb09fa49d4a4
 Q
 !src/Abstraction/Hangman/Game.java,a\1\a1ad1d9cbd52da636923a1ccc5160668d4052533
+Z
+*src/Exceptions/ExerciceDevise/Monnaie.java,1\5\1514a55b5e0dfec512a63e1d1276221356bfbf37
+^
+.src/Exceptions/ExerciceDevise/TestMonnaie.java,8\4\84dadd6ba5a5c03bbc5391cd9b163abd3c141f7d
+]
+-src/Exceptions/Seriesexercices/Exercice1.java,1\4\14e7a3ebba65440fccd66f6ba7c319cb5873f257
+]
+-src/Exceptions/Seriesexercices/Exercice2.java,4\9\49d63e9a2636a332b591a6bd4b670ddf94a934af
+]
+-src/Exceptions/Seriesexercices/Exercice3.java,e\d\ed6078fa6b04dff92c0f4140ca2284974da50315
+e
+5src/Exceptions/ExerciceDevise/DeviseIncompatible.java,7\8\78d84953223245885d730929ac5b6865cbe05cc1
+]
+-src/Exceptions/Seriesexercices/Exercice4.java,f\0\f0ae4f5c49f8a60f5fecd0f6333a639a436b084d
+O
+src/Generics/StringPrinter.java,8\8\88d64e8e9019b25b9c8b0337c9954330c802cde4
+O
+src/Generics/DoublePrinter.java,2\5\255c4d8563fe62c4e1660accb6c422458d98bbad
+P
+ src/Generics/IntegerPrinter.java,5\d\5d812e659bb1b01280b2327ebdf15729d4d4c801
+I
+src/Generics/Printer.java,d\4\d417e60c55820399b4e407b2ea6d0101904374b6
+Q
+!src/Generics/GenericsExemple.java,2\3\2373741cb04870706dc887dc26b6f936791d4208
+L
+src/CollectionsApi/Demo.java,d\9\d9fcdaab32940c22c4a26b169400062e3c197b89
+O
+src/CollectionsApi/MapDemo.java,7\1\717205d11f1b118296a184aa19ed4c661225e7d4
+N
+src/GarbageCollector/Demo.java,7\d\7d9245891c9564cd619dbcd229edfcebecb05d63
+G
+src/StreamApi/Demo.java,d\2\d2aa653575483b4e090729ef252f91050a5c1dfe

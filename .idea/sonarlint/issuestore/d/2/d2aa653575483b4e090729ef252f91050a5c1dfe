@@ -1,0 +1,17 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£°Ñ€8¥ç²ðì2
+X	java:S125"<This block of commented-out lines of code should be removed.(‚£ñ¸8´ç²ðì2
+W	java:S125"<This block of commented-out lines of code should be removed.(ŸÉ!8¹ç²ðì2
+X	java:S125"<This block of commented-out lines of code should be removed.(œ˜Í€8 ×´ðì2
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(†þÈü8áü´ðì2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(†þÈü8âü´ðì2
+]	java:S125"<This block of commented-out lines of code should be removed.(õà“âüÿÿÿÿ8âü´ðì2
+X	java:S125!"<This block of commented-out lines of code should be removed.(ááÿ˜8Áç²ðì2
+W	java:S125%"<This block of commented-out lines of code should be removed.(éõ¹#8Ëç²ðì2
+Z
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8¡×´ðì2
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Íž8¡×´ðì2
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8¡×´ðì2
